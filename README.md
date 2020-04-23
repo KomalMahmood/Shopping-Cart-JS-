@@ -3,6 +3,5 @@
 an item.
 You can delete or modify the selected products from cart later on.
 
-IMPORTANT:
-
-You must need to include jquery file(jquery-3.4.1.min.js) in same folder before running.
+RECOMMENDED:
+Connect internet while running.
